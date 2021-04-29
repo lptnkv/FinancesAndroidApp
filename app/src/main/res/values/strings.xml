@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Finances</string>
+    <string name="action_settings">Settings</string>
+    <string name="element_text">Test</string>
+    
+    <string-array name="currencies">
+        <item name="USD">Доллар</item>
+        <item name="EUR">Евро</item>
+        <item name="AUD">Австралийский доллар</item>
+        <item name="BYN">Белорусский рубль</item>
+        <item name="BRL">Бразильский реал</item>
+        <item name="HKD">Гонконгский доллар</item>
+        <item name="DKK">Датская крона</item>
+        <item name="KZT">Казахстанский тенге</item>
+        <item name="CAD">Канадский доллар</item>
+        <item name="UAH">Украинская гривна</item>
+    </string-array>
+    <string-array name="prices">
+        <item name="USD-price">76.8198</item>
+        <item name="EUR-price">92.2913</item>
+        <item name="AUD-price">59.3202</item>
+        <item name="BYN-price">29.5734</item>
+        <item name="BRL-price">13.7937</item>
+        <item name="HKD-price">98.9525</item>
+        <item name="DKK-price">12.4089</item>
+        <item name="KZT-price">17.7616</item>
+        <item name="CAD-price">61.0165</item>
+        <item name="UAH-price">27.3864</item>
+    </string-array>
+    
+</resources>

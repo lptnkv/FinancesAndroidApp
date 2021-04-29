@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="flags">
+        <item>@drawable/usa_1</item>
+        <item>@drawable/eur_2</item>
+        <item>@drawable/aud_3</item>
+        <item>@drawable/byn_4</item>
+        <item>@drawable/brl_5</item>
+        <item>@drawable/hkd_6</item>
+        <item>@drawable/dkk_7</item>
+        <item>@drawable/kzt_8</item>
+        <item>@drawable/cad_9</item>
+        <item>@drawable/uah_10</item>
+    </integer-array>
+</resources>
